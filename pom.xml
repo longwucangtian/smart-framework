@@ -67,6 +67,13 @@
       <version>3.3.2</version>
     </dependency>
     
+    <!--  CGLib-->
+    <dependency>
+      <groupId>cglib</groupId>
+      <artifactId>cglib</artifactId>
+      <version>2.2.2</version>
+    </dependency>
+    
      <!-- Apache Commons Collection -->
     <dependency>
       <groupId>org.apache.commons</groupId>
